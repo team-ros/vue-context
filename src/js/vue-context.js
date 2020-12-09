@@ -67,7 +67,7 @@ export default {
     computed: {
         style() {
             return this.show
-                ? { top: `${this.top}px`, left: `${this.left}px` }
+                ? { top: `${this.top-110}px`, left: `${this.left}px` }
                 : null;
         }
     },
