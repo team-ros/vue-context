@@ -1,5 +1,5 @@
 {
-  "name": "vue-context",
+  "name": "ros-vue-context",
   "version": "6.0.0",
   "description": "A simple vue context menu component.",
   "main": "src/js/index.js",
